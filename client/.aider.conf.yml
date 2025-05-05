@@ -1,0 +1,8 @@
+auto_commits: true
+auto_add: true
+files:
+  - "**/*.ts"
+  - "**/*.tsx"
+  - "app.json"
+  - "package.json"
+  - "babel.config.js"
